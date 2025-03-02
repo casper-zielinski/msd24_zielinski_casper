@@ -29,6 +29,6 @@
 
 - Lokal:
 
-      git config --global user.name "Neuer Name"
-      git config --global user.email "neue.email@example.com"
+      git config --local user.name "Neuer Name"
+      git config --local user.email "neue.email@example.com"
       
