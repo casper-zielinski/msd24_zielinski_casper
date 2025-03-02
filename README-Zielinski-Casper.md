@@ -37,4 +37,10 @@ The Programm is divided into 2 Java Files, while the ICalculator.java file calls
 
 ## Verlinkundg der exercise1.md
 
-[**Exercise 1**](exercise1.md)
+1. [**Exercise 1**](exercise1.md)
+
+   >Erster Einstieg um mit Markdown zu arbeiten/ Markdown kennenlernen. Übungsziel: sich mit der Syntax bekannt machen (Bild einfügen, Link einfügen, Absätze, etc.)
+
+2. [**Exercise 2**](exercise2.md)
+
+      >Einstieg in die Git-Befehle. Übungsziel: Git-Befehle kennerlernen und weiter die Markdown Syntax kennenlernen (z.B. Tabellen einfügen)
