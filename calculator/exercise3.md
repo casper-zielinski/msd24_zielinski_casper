@@ -22,7 +22,7 @@
 > Der Dateipfad des Projekter Calculator für die 3.Aufgabe
 >
 >Erfolgreicher Build mittels ``mvn compile``
-![mvn_compile](resources/images/MVNComp.png)
+![mvn_compile](resources/images/ex3_2.png)
 >
 >Erfolgreicher Durchlauf mittels ``mvn exec:java``
-![mvn_exec:java](resources/images/mvn_exec__java.png)
+![mvn_exec:java](resources/images/ex3_3.png)
