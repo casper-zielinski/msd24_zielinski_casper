@@ -45,6 +45,10 @@ The Programm is divided into 2 Java Files, while the ICalculator.java file calls
 
       >Einstieg in die Git-Befehle. Übungsziel: Git-Befehle kennerlernen und weiter die Markdown Syntax kennenlernen (z.B. Tabellen einfügen)
 
+3. [**Exercise 3**](exercise3.md)
+
+      >Einstieg zum erstellen erster Maven Projekte und kompilieren sowie ausführen mittels Maven
+
 ## Link zur GitHub Profilseite und Hochschule
 
 [GitHub Profilseite](https://github.com/casper-zielinski)
