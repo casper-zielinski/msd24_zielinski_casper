@@ -49,6 +49,8 @@ The Programm is divided into 2 Java Files, while the ICalculator.java file calls
 
       >Einstieg zum erstellen erster Maven Projekte und kompilieren sowie ausführen mittels Maven
 
+4. [**Exercis 4**](exercise4.md)
+
 ## Link zur GitHub Profilseite und Hochschule
 
 [GitHub Profilseite](https://github.com/casper-zielinski)
