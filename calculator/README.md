@@ -33,7 +33,7 @@ You get a Error Message when the Result of the *Division* is either Not a Number
 
 The Programm is divided into 2 Java Files, while the ICalculator.java file calls the methods, they are defined in the CalculatorImpl.java file.
 
-![Calculator-Example](CalcExamp.png)
+![Calculator-Example](resources/images/CalcExamp.png)
 
 ## Verlinkundg der exercise1.md
 
