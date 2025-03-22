@@ -87,6 +87,25 @@ void testMinusNegatives(){
       assertEquals(-20, calc.minus(-10, 10));
 }
 
+@Test
+@DisplayName("testFactorialwithvalues")
+void testfactorial(){
+      assertEquals(120, calc.factorial(5));
+}
+
+@Test
+@DisplayName("testFactorialwithNegatives")
+void testFactorialwithNegatives(){
+      assertEquals(0, calc.factorial(-5));
+}
+
+@Test
+@DisplayName("testFactorialwithZero")
+public void testFactorialwithZero() {
+    assertEquals(1, calc.factorial(0));
+}
+
+
 }
 
 

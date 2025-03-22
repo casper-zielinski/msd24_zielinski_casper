@@ -116,3 +116,5 @@ void testMinusNegatives(){
 ## Test with Coverages
 
 ![Test with Coverages](resources/images/ex4_1.png)
+
+![Wrong Test](resources/images/ex4_2.png)
