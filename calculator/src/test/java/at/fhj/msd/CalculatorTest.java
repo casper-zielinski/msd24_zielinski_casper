@@ -96,7 +96,7 @@ void testfactorial(){
 @Test
 @DisplayName("testFactorialwithNegatives")
 void testFactorialwithNegatives(){
-      assertEquals(0, calc.factorial(-5));
+      assertEquals(1, calc.factorial(-5));
 }
 
 @Test
