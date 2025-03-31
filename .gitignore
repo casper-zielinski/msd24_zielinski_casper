@@ -1,4 +1,4 @@
 *.html
 *.pdf
-*target
-*.vscode
+\target
+\.vscode

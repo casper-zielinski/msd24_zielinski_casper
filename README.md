@@ -49,7 +49,8 @@ The Programm is divided into 2 Java Files, while the ICalculator.java file calls
 
       >Einstieg zum erstellen erster Maven Projekte und kompilieren sowie ausführen mittels Maven
 
-4. [**Exercis 4**](exercise4.md)
+4. [**Exercise 4**](exercise4.md)
+      >Einstieg zur erstellen von Testen mit JUnit, also  ganz Basic, dass man das Ergebnis einer Methode mit dem Ergebnis das rauskommen sollte (wenn die Methode richtig implemeiert worden ist)
 
 ## Link zur GitHub Profilseite und Hochschule
 

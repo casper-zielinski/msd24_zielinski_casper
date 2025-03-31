@@ -14,10 +14,10 @@
 
 ## Wie ein `git log` und `git status` aussieht
 
-![git status](git_status.png)
+![git status](resources/images/git_status.png)
 `git status`
 
-![git log](git_log.png)
+![git log](resources/images/git_log.png)
 `git log`
 
 ## Wie man Namen und E-mail ändert (Global und Lokal)

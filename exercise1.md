@@ -21,12 +21,12 @@ Kein Zitat
 
 [E-learning](https://elearning.fh-joanneum.at/course/view.php?id=1947)
 
-![schule](schule.jpg)
+![schule](resources/images/schule.jpg)
 
 ## noch eine Überschrift
 
 [YT](https://www.youtube.com/)
 
-![YT](YT.jpg)
+![YT](resources/images/YT.jpg)
 
 ### und noch eine

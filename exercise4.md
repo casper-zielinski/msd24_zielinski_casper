@@ -11,6 +11,7 @@ void testAddition() {
  assertEquals(5, calc.add(2,3));
 }
 ```
+
 >Überpüft mit normalen Werten die Additions Methode
 
 ```
@@ -20,6 +21,7 @@ void testAdditionWithZero(){
  assertEquals(0, calc.add(0,0));
 }
 ```
+
 >Überprüft mit 0 die Additions Methode
 
 ```
@@ -29,8 +31,8 @@ void testAddWithNegative(){
       assertEquals(1, calc.add(-2,3));
 }
 ```
->Überprüft die Additions Methode mit negativen Werten
 
+>Überprüft die Additions Methode mit negativen Werten
 
 ```
 @Test
@@ -39,6 +41,7 @@ void testDivideNormalValues(){
       assertEquals(5, calc.divide(10,2));
 }
 ```
+
 >Überprüft die Divisions Methode mit normalen Werten
 
 ```
@@ -48,6 +51,7 @@ void testDivideByZero(){
       assertThrows(ArithmeticException.class , () -> calc.divide(10, 0));
 }
 ```
+
 >Überprüft ob die Divisions Methode mit 0 eine Exception wirft (Ein Wert / 0)
 
 ```
@@ -57,6 +61,7 @@ void testDivideWithZero(){
       assertEquals(0, calc.divide(0, 10));
 }
 ```
+
 >Überprüft ob die Divisions Methode mit 0 den richtigen Wert zurückgibt, diesmal aber in dieser Form: (0 / Wert)
 
 ```
@@ -66,6 +71,7 @@ void testMuliplyNormalValues(){
       assertEquals(20, calc.multiply(5, 4));
 }
 ```
+
 >Überprüft die Multiplikations Methode mit normalen Werten
 
 ```
@@ -75,7 +81,8 @@ void testMultiplycommutative(){
       assertEquals(calc.multiply(4, 2), calc.multiply(2, 4));
 }
 ```
->Überprüft das Kommutativ Gesetzt der Multiplikation (also das: x * y = y * x)
+
+>Überprüft das Kommutativ Gesetzt der Multiplikation (also das: x *y = y* x)
 
 ```
 @Test
@@ -84,6 +91,7 @@ void testMultiplyWithZero(){
       assertEquals(0, calc.multiply(100, 0));
 }
 ```
+
 >Überprüft die Multiplikations Methode mit dem Wert 0
 
 ```
@@ -93,6 +101,7 @@ void testMinusNormalValues(){
       assertEquals(10, calc.minus(20, 10));
 }
 ```
+
 >Überprüft die Subtraktions Methode mit normalen Werten
 
 ```
@@ -102,6 +111,7 @@ void testMinusWihtZero(){
       assertEquals(10, calc.minus(0, 10));
 }
 ```
+
 >Überprüft die Subtraktions Methode mit dem Wert 0
 
 ```
@@ -111,6 +121,7 @@ void testMinusNegatives(){
       assertEquals(-20, calc.minus(-10, 10));
 }
 ```
+
 >Überprüft die Subtraktions Methode mit einem negativen Wert
 
 ## Test with Coverages
