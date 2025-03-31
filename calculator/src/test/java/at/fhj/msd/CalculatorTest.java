@@ -37,7 +37,7 @@ void testAddWithNegative(){
 @DisplayName("testDivideNormalValues()")
 void testDivideNormalValues(){
       assertEquals(5, calc.divide(10,2));
-}
+} 
 
 @Test
 @DisplayName("testDivideByZero()")
