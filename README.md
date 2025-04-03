@@ -52,8 +52,59 @@ The Programm is divided into 2 Java Files, while the ICalculator.java file calls
 4. [**Exercise 4**](exercise4.md)
       >Einstieg zur erstellen von Testen mit JUnit, also  ganz Basic, dass man das Ergebnis einer Methode mit dem Ergebnis das rauskommen sollte (wenn die Methode richtig implemeiert worden ist)
 
+5. [**Exercise 5**](exercise5.md)
+      >Einstieg in das Erstellen, Ändern und Arbeiten mit verschiedenen Branches sowie das Arbeiten mit der logging bibliothek
+
+      <br>
+[Template der log4j2.xml Datei](src/main/resources/log4j2.xml.template)
+     
+
 ## Link zur GitHub Profilseite und Hochschule
 
 [GitHub Profilseite](https://github.com/casper-zielinski)
 
 [Hochschule](https://www.fh-joanneum.at/)
+
+## Wie die log4j2.xml Datei aussieht (Template)
+
+
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+ <Appenders>
+ <!-- Ausgabe auf Konsole -->
+ <Console name="Console" target="SYSTEM_OUT">
+ <PatternLayout pattern="%d{HH:mm:ss} [%t] %-5level %logger{36}
+- %msg%n" />
+ </Console>
+ <!-- Logdatei-Ausgabe -->
+ <File name="FileLogger" fileName="logs/app.log" append="true">
+ <PatternLayout>
+ <pattern>%d{yyyy-MM-dd HH:mm:ss} %-5level %c{1} -
+%msg%n</pattern>
+ </PatternLayout>
+ </File>
+ </Appenders>
+ <Loggers>
+ <!-- Root Logger -->
+ <Root level="debug">
+ <AppenderRef ref="Console"/>
+ <AppenderRef ref="FileLogger"/>
+ </Root>
+ </Loggers>
+</Configuration>
+```
+
+<h3>Das Resultat:</h3>
+
+```
+2025-04-03 14:03:50 INFO  Calculator -
+divide called with: number1 =10.0, number2 =0.0
+2025-04-03 14:03:50 ERROR Calculator -
+Division called with 0!
+
+...
+```
+Es liefert die Lognachrichten in die app.log Datei, wobei wenn man die Test noch mal ausführt die Datei nicht überschriben wird sondern es zu ihr angesetzt wird (**append**)
+

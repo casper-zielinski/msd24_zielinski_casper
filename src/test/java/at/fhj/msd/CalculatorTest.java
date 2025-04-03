@@ -42,7 +42,9 @@ void testDivideNormalValues(){
 @Test
 @DisplayName("testDivideByZero()")
 void testDivideByZero(){
-      assertThrows(ArithmeticException.class , () -> calc.divide(10, 0));
+      assertThrows(ArithmeticException.class, () -> {
+             calc.divide(10, 0);
+             });
 }
 
 @Test
