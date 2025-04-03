@@ -1,0 +1,126 @@
+2025-04-03 14:03:50 INFO  Calculator -
+divide called with: number1 =10.0, number2 =0.0
+2025-04-03 14:03:50 ERROR Calculator -
+Division called with 0!
+2025-04-03 14:03:50 INFO  Calculator -
+divide called with: number1 =10.0, number2 =2.0
+2025-04-03 14:03:50 INFO  Calculator -
+added number 1: 2.0 and number 2:3.0
+2025-04-03 14:03:50 INFO  Calculator -
+subtracted number 1: -10.0 and number 2:10.0
+2025-04-03 14:03:50 INFO  Calculator -
+Multiplied number 1: 5.0 and number 2:4.0
+2025-04-03 14:03:50 INFO  Calculator -
+Factorial of:0
+2025-04-03 14:03:50 INFO  Calculator -
+Factorial of:-5
+2025-04-03 14:03:50 INFO  Calculator -
+Multiplied number 1: 4.0 and number 2:2.0
+2025-04-03 14:03:50 INFO  Calculator -
+Multiplied number 1: 2.0 and number 2:4.0
+2025-04-03 14:03:50 INFO  Calculator -
+divide called with: number1 =0.0, number2 =10.0
+2025-04-03 14:03:50 INFO  Calculator -
+subtracted number 1: 0.0 and number 2:10.0
+2025-04-03 14:03:50 INFO  Calculator -
+added number 1: -2.0 and number 2:3.0
+2025-04-03 14:03:50 INFO  Calculator -
+added number 1: 0.0 and number 2:0.0
+2025-04-03 14:03:50 INFO  Calculator -
+Factorial of:5
+2025-04-03 14:03:50 INFO  Calculator -
+Factorial of:4
+2025-04-03 14:03:50 INFO  Calculator -
+Factorial of:3
+2025-04-03 14:03:50 INFO  Calculator -
+Factorial of:2
+2025-04-03 14:03:50 INFO  Calculator -
+Factorial of:1
+2025-04-03 14:03:50 INFO  Calculator -
+subtracted number 1: 20.0 and number 2:10.0
+2025-04-03 14:03:50 INFO  Calculator -
+Multiplied number 1: 100.0 and number 2:0.0
+2025-04-03 14:25:04 INFO  Calculator -
+divide called with: number1 =10.0, number2 =0.0
+2025-04-03 14:25:04 ERROR Calculator -
+Division called with 0!
+2025-04-03 14:25:04 INFO  Calculator -
+divide called with: number1 =10.0, number2 =2.0
+2025-04-03 14:25:05 INFO  Calculator -
+added number 1: 2.0 and number 2:3.0
+2025-04-03 14:25:05 INFO  Calculator -
+subtracted number 1: -10.0 and number 2:10.0
+2025-04-03 14:25:05 INFO  Calculator -
+Multiplied number 1: 5.0 and number 2:4.0
+2025-04-03 14:25:05 INFO  Calculator -
+Factorial of:0
+2025-04-03 14:25:05 INFO  Calculator -
+Factorial of:-5
+2025-04-03 14:25:05 INFO  Calculator -
+Multiplied number 1: 4.0 and number 2:2.0
+2025-04-03 14:25:05 INFO  Calculator -
+Multiplied number 1: 2.0 and number 2:4.0
+2025-04-03 14:25:05 INFO  Calculator -
+divide called with: number1 =0.0, number2 =10.0
+2025-04-03 14:25:05 INFO  Calculator -
+subtracted number 1: 0.0 and number 2:10.0
+2025-04-03 14:25:05 INFO  Calculator -
+added number 1: -2.0 and number 2:3.0
+2025-04-03 14:25:05 INFO  Calculator -
+added number 1: 0.0 and number 2:0.0
+2025-04-03 14:25:05 INFO  Calculator -
+Factorial of:5
+2025-04-03 14:25:05 INFO  Calculator -
+Factorial of:4
+2025-04-03 14:25:05 INFO  Calculator -
+Factorial of:3
+2025-04-03 14:25:05 INFO  Calculator -
+Factorial of:2
+2025-04-03 14:25:05 INFO  Calculator -
+Factorial of:1
+2025-04-03 14:25:05 INFO  Calculator -
+subtracted number 1: 20.0 and number 2:10.0
+2025-04-03 14:25:05 INFO  Calculator -
+Multiplied number 1: 100.0 and number 2:0.0
+2025-04-03 14:25:24 INFO  Calculator -
+divide called with: number1 =10.0, number2 =0.0
+2025-04-03 14:25:24 ERROR Calculator -
+Division called with 0!
+2025-04-03 14:25:24 INFO  Calculator -
+divide called with: number1 =10.0, number2 =2.0
+2025-04-03 14:25:24 INFO  Calculator -
+added number 1: 2.0 and number 2:3.0
+2025-04-03 14:25:24 INFO  Calculator -
+subtracted number 1: -10.0 and number 2:10.0
+2025-04-03 14:25:24 INFO  Calculator -
+Multiplied number 1: 5.0 and number 2:4.0
+2025-04-03 14:25:24 INFO  Calculator -
+Factorial of:0
+2025-04-03 14:25:24 INFO  Calculator -
+Factorial of:-5
+2025-04-03 14:25:24 INFO  Calculator -
+Multiplied number 1: 4.0 and number 2:2.0
+2025-04-03 14:25:24 INFO  Calculator -
+Multiplied number 1: 2.0 and number 2:4.0
+2025-04-03 14:25:24 INFO  Calculator -
+divide called with: number1 =0.0, number2 =10.0
+2025-04-03 14:25:24 INFO  Calculator -
+subtracted number 1: 0.0 and number 2:10.0
+2025-04-03 14:25:24 INFO  Calculator -
+added number 1: -2.0 and number 2:3.0
+2025-04-03 14:25:24 INFO  Calculator -
+added number 1: 0.0 and number 2:0.0
+2025-04-03 14:25:24 INFO  Calculator -
+Factorial of:5
+2025-04-03 14:25:24 INFO  Calculator -
+Factorial of:4
+2025-04-03 14:25:24 INFO  Calculator -
+Factorial of:3
+2025-04-03 14:25:24 INFO  Calculator -
+Factorial of:2
+2025-04-03 14:25:24 INFO  Calculator -
+Factorial of:1
+2025-04-03 14:25:24 INFO  Calculator -
+subtracted number 1: 20.0 and number 2:10.0
+2025-04-03 14:25:24 INFO  Calculator -
+Multiplied number 1: 100.0 and number 2:0.0
