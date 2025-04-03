@@ -2,9 +2,6 @@
 *.pdf
 \target
 \.vscode
-logs/
-logs/*.log
-*.log
+\logs
 src/main/resources/log4j2.xml
-logs
-/logs
+*log
