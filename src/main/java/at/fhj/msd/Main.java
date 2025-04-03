@@ -20,8 +20,8 @@ public class Main {
         System.out.println(calc.divide(7, 21));
         System.out.println(calc.multiply(21, 7));
 
-        logger.info("Das ist Info");
-        logger.error("Das ist Error");
+        // logger.info("Das ist Info");
+        // logger.error("Das ist Error");
 
 
     }
