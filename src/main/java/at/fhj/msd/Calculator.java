@@ -5,10 +5,13 @@ import org.apache.logging.log4j.Logger;
 /**
  * Creates a logs Folder with a log file in it having the logger infos and errors 
  * documented in the log file of the Methods/Calculations runned in the Main Class/The Testing Class
- * 
+ * of the Methods created in this Class
  */
 
 public class Calculator {
+      /**
+       * Creates a logger for the Calculator Class
+       */
       Logger logger = LogManager.getLogger(Calculator.class);
 
       /**
