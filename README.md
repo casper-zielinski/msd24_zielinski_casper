@@ -35,7 +35,7 @@ The Programm is divided into 2 Java Files, while the ICalculator.java file calls
 
 ![Calculator-Example](resources/images/CalcExamp.png)
 
-## Verlinkundg der exercise1.md
+## Verlinkundg der Exercise Markdown Dateien
 
 1. [**Exercise 1**](exercise1.md)
 
@@ -56,7 +56,12 @@ The Programm is divided into 2 Java Files, while the ICalculator.java file calls
       >Einstieg in das Erstellen, Ändern und Arbeiten mit verschiedenen Branches sowie das Arbeiten mit der logging bibliothek
 
       <br>
-[Template der log4j2.xml Datei](src/main/resources/log4j2.xml.template)
+>    [Template der log4j2.xml Datei](src/main/resources/log4j2.xml.template)
+<br>
+
+6. [**Exercise 6**](exercise6.md)
+      > Einstieg ins Benutzen von Javadoc Kommentaren und generell Dokumentation und arbeiten mit anderen Branches üben.
+
      
 
 ## Link zur GitHub Profilseite und Hochschule

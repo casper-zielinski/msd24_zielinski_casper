@@ -22,7 +22,7 @@ public class Calculator {
        */
       public double add(double number1, double number2)
       {
-            logger.info("added number 1: " + number1 + " and number 2:" + number2);
+            logger.info("added number 1: " + number1 + " and number 2: " + number2);
              return number1 + number2;  
       }
 
@@ -34,7 +34,7 @@ public class Calculator {
        */
       public double minus(double number1, double number2)
       {
-            logger.info("subtracted number 1: " + number1 + " and number 2:" + number2);
+            logger.info("subtracted number 1: " + number1 + " and number 2: " + number2);
              return number1 - number2; 
       }
 
@@ -48,7 +48,7 @@ public class Calculator {
        */
       public double divide(double number1, double number2)
       { 
-            logger.info("divide called with: number1 =" + number1 + ", number2 =" + number2);
+            logger.info("divide called with: number1 = " + number1 + ", number2 = " + number2);
             if (number2 == 0)
             {
                   logger.error("Division called with 0!");
@@ -66,7 +66,7 @@ public class Calculator {
        */
       public double multiply(double number1, double number2)
       {
-            logger.info("Multiplied number 1: " + number1 + " and number 2:" + number2);
+            logger.info("Multiplied number 1: " + number1 + " and number 2: " + number2);
              return number1 * number2; 
       }
 
@@ -77,7 +77,7 @@ public class Calculator {
        * @return n factorial
        */
       public int factorial(int n) {
-            logger.info("Factorial of:" + n);
+            logger.info("Factorial of: " + n);
             return (n <= 1) ? 1 : n * factorial(n - 1);
            }
 }
