@@ -6,6 +6,7 @@
 		<menu name="Overview">
                   <item name ="Good Style" href="good_style.html" />
                   <item name ="Calculator" href="apidocs/at/fhj/msd/Calculator.html" />
+                  <item name ="CalculatorTest" href="jacoco/index.html" />
 		</menu>
 		<menu ref="reports" />
 		
