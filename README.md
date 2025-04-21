@@ -60,9 +60,7 @@ The Programm is divided into 2 Java Files, while the ICalculator.java file calls
 <br>
 
 6. [**Exercise 6**](exercise6.md)
-      > Einstieg ins Benutzen von Javadoc Kommentaren und generell Dokumentation und arbeiten mit anderen Branches üben.
-
-     
+      > Einstieg ins Benutzen von Javadoc Kommentaren sowie generieren von Maven Site Dokumentationen und generell Dokumentation und arbeiten mit anderen Branches üben.
 
 ## Link zur GitHub Profilseite und Hochschule
 
