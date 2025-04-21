@@ -1,7 +1,7 @@
 # **Wie verfasst man gute Source Code Kommentare bzw. gute Git Commit Messages**
 
-><h2>“Code is more often read than written“</h2>(Guido van Rossum)
-<br>
+<h2>Code is more often read than written</h2>
+<p><em>Guido van Rossum</em></p>
 
 ## **7 Regeln für gute Git Commit Messages**
 
@@ -30,7 +30,8 @@
 **5. In der Zusammenfassung den Imperativ (Befehlsform) verwenden**
 
  - Die Überschrift sollte in der Befehlsform geschrieben sein, so als würdest du sagen, was getan weden soll
- - Eine gute Orientierung: Die Zeile sollte diesen Satz sinnvoll ergänzen können:<br> "Wenn dieser Commit angewendet wird, dann ..." 
+ - Eine gute Orientierung: Die Zeile sollte diesen Satz sinnvoll ergänzen können:  
+ "Wenn dieser Commit angewendet wird, dann ..." 
  - Gute Beispiele: 
  ```
  Merge branch "feature42"
